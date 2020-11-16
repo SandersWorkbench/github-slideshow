@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome again!"
 --- 
-your text
+Funny sentence
 Use left arrow to go back.
